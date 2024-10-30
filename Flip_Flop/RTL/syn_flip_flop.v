@@ -8,7 +8,7 @@ input wire sys_rst_n,
  );
 
  
- always@(posedge sys_clk or negedge sys_rst_n) begin
+ always@(posedge sys_clk ) begin
 
          if(sys_rst_n == 1'b0) begin
           led_out <= 1'b0; 
