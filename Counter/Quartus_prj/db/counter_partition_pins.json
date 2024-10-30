@@ -1,0 +1,121 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "cnt[0]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[1]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[2]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[3]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[4]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[5]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[6]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[7]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[8]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[9]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[10]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[11]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[12]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[13]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[14]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[15]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[16]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[17]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[18]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[19]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[20]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[21]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[22]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[23]",
+					"strict" : false
+				},
+				{
+					"name" : "cnt[24]",
+					"strict" : false
+				},
+				{
+					"name" : "led_out",
+					"strict" : false
+				},
+				{
+					"name" : "sys_clk",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst_n",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
