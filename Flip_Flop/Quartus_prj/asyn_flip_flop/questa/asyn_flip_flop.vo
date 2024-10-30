@@ -29,7 +29,7 @@
 
 `timescale 1 ps/ 1 ps
 
-module flip_flop (
+module asyn_flip_flop (
 	sys_clk,
 	sys_rst_n,
 	key_in,
