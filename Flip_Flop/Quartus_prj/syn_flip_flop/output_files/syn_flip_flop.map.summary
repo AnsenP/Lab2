@@ -1,7 +1,7 @@
 Analysis & Synthesis Status : Successful - Wed Oct 30 17:34:07 2024
 Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
-Revision Name : flip_flop
-Top-level Entity Name : flip_flop
+Revision Name : syn_flip_flop
+Top-level Entity Name : syn_flip_flop
 Family : Cyclone IV E
 Total logic elements : 1
     Total combinational functions : 1
