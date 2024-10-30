@@ -32,7 +32,7 @@ reg key_in ;
  end
  
  
- flip_flop flip_flop_inst
+ asyn_flip_flop asyn_flip_flop_inst
  (
  .sys_clk (sys_clk ), 
  .sys_rst_n (sys_rst_n ), 
